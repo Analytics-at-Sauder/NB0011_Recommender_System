@@ -1,6 +1,5 @@
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 ast
-sklearn.feature_extraction.text
-sklearn.metrics.pairwise
+sklearn
